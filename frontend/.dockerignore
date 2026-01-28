@@ -1,0 +1,13 @@
+# Frontend .dockerignore
+node_modules/
+.git/
+.gitignore
+dist/
+.env
+.env.*
+*.md
+*.log
+.vscode/
+.idea/
+coverage/
+.nyc_output/
